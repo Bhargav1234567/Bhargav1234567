@@ -65,7 +65,7 @@ I specialize in turning raw, complex data into clean, reliable, analytics-ready 
 
 | Project | Tech | Impact |
 |---|---|---|
-| 🏠 MLS Master Data Platform | Databricks · Delta Lake · Unity Catalog | Eliminated 100% of reporting discrepancies across 20+ years of legacy records |
+| 🏠 Spotify End to End Data Pipeline | Python · AWS · Snowflake | Built a serverless Spotify data pipeline using AWS Lambda, S3, and Snowpipe to automatically ingest, transform, and load JSON data into Snowflake for analytics. |
 | 🔍 Anomaly Detection Pipeline | PySpark · Python · AWS Step Functions | Caught 100% of data defects before reaching downstream consumers |
 | 📊 Real-time Observability Dashboards | Databricks · SQL · KPI Reporting | Saved 5+ hrs/week of manual reporting for 3+ stakeholder teams |
 | ⚡ Streaming Ingestion System | AWS Kinesis · PySpark · Redshift | Reduced data latency from 1 hour → under 2 minutes |
