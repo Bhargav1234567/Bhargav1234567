@@ -71,17 +71,6 @@ I specialize in turning raw, complex data into clean, reliable, analytics-ready 
 | ⚡ Streaming Ingestion System | AWS Kinesis · PySpark · Redshift | Reduced data latency from 1 hour → under 2 minutes |
 | 🧹 dbt Data Quality Framework | dbt · SQL · CI/CD | Eliminated ~80% of transformation errors across 3 reporting pipelines |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Bhargav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargav-krishna-duriseti&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-krishna-duriseti&layout=compact&theme=default&hide_border=true)
-
-</div>
 
 ---
 
