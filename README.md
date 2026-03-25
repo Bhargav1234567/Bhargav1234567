@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Data Engineer with **4+ years of experience** building production-grade data pipelines, scalable ETL/ELT systems, and analytics platforms that process **1M+ records/week at 99.9% accuracy**.
+I'm a Data Engineer with **5+ years of experience** building production-grade data pipelines, scalable ETL/ELT systems, and analytics platforms that process **1M+ records/week at 99.9% accuracy**.
 
 I specialize in turning raw, complex data into clean, reliable, analytics-ready datasets — and I care just as much about the *insights* those datasets unlock as the pipelines themselves.
 
